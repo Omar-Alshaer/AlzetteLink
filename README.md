@@ -2,7 +2,25 @@
   <img src="web-dashboard/src/assets/AlzetteLink-logo.png" alt="AlzetteLink Logo" width="200"/>
 </p>
 
-# AlzetteLink: Industrial IoT Educational Bridge
+<h1 align="center">AlzetteLink: Industrial IoT Educational Bridge</h1>
+
+<p align="center">
+  <a href="https://github.com/boubli/AlzetteLink/actions"><img src="https://github.com/boubli/AlzetteLink/workflows/AlzetteLink%20CI/badge.svg" alt="CI Status"></a>
+  <a href="https://github.com/boubli/AlzetteLink/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/boubli/AlzetteLink/issues"><img src="https://img.shields.io/github/issues/boubli/AlzetteLink.svg" alt="Issues"></a>
+  <a href="https://github.com/boubli/AlzetteLink/stargazers"><img src="https://img.shields.io/github/stars/boubli/AlzetteLink.svg" alt="Stars"></a>
+  <a href="https://boubli.tech"><img src="https://img.shields.io/badge/website-boubli.tech-blue" alt="Website"></a>
+</p>
+
+<p align="center">
+  <b>ESP32</b> • <b>MQTT</b> • <b>InfluxDB</b> • <b>React</b> • <b>Docker</b> • <b>Industry 4.0</b>
+</p>
+
+<p align="center">
+  <i>🎓 Perfect for technical students learning Industrial IoT concepts!</i>
+</p>
+
+---
 
 **AlzetteLink** is a comprehensive Industrial IoT (IIoT) educational platform designed to bridge the gap between operational technology (OT) and information technology (IT). It demonstrates the complete flow of data from a low-level microcontroller (ESP32) to a high-level web dashboard via modern industry-standard protocols.
 
